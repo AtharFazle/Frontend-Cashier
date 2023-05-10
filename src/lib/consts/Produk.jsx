@@ -1,0 +1,30 @@
+export const DummyProduk = [
+    {
+        id:1,
+        kode:'0001',
+        nama:'Beng-Beng',
+        harga:1000,
+        Diskon:15,
+        jumlah:2,
+        SubTotal:0,
+    },
+    {
+        id:2,
+        kode:'0002',
+        nama:'Taro',
+        harga:2000,
+        jumlah:1,
+        Diskon:15,
+        SubTotal:0,
+    },
+    {
+        id:3,
+        kode:'0003',
+        nama:'Oreo',
+        harga:3000,
+        jumlah:1,
+        Diskon:15,
+        SubTotal:0,
+    },
+]
+
